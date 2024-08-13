@@ -68,7 +68,7 @@ def main():
                 position = element_to_position(elements_list, lenght, element)
                 if str(position)[0] == "B":
                     print("\n", position)
-                else:
+
                     print(f"The element {element} is at position {position} in the general set")
         
    
